@@ -27,13 +27,13 @@ This is a sleek, responsive, and fully-featured app designed to test and improve
 This repository contains the **complete project code** for the Typing Speed Test application, including all files, components, and configurations.  
 
 🔗 **Explore the project repository here:**  
-[**GitHub Repository**](https://github.com/your-username/typing-speed-test)  
+[**GitHub Repository**](https://github.com/mahmoudnazmy/Typing-Speed-Test)  
 
 ---
 
 ## 🚀 Live Demo  
 
-🌐 **[Try the application here](https://your-username.github.io/typing-speed-test/)**  
+🌐 **[Try the application here](https://mahmoudnazmy.github.io/Typing-Speed-Test/)**  
 
 ---
 
