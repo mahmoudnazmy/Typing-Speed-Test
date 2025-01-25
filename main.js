@@ -50,7 +50,7 @@ class TypingTest {
         this.initializeKeyboard();
         
         // تعيين اسم المستخدم
-        this.username.textContent = 'lol258lol';
+        this.username.textContent = 'Mahmoud Nazmy';
     }
 
     setupEventListeners() {
